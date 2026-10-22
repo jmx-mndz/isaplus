@@ -1,3 +1,0 @@
-Put your result images here.
-Expected names: featured-before.jpg, featured-after.jpg, result-1.jpg ... result-9.jpg
-Edit titles/numbers in js/results.js
